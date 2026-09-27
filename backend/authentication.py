@@ -1,4 +1,4 @@
-from database import mydb
+from backend.database import mydb
 
 mycursor = mydb.cursor()
 

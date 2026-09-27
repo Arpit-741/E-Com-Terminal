@@ -1,6 +1,6 @@
 import mysql.connector
-from authentication import authentication
-from database import mydb
+from backend.authentication import authentication
+from backend.database import mydb
 
 print(
     "Hello! Welcome to the E-Comm", "\n",
