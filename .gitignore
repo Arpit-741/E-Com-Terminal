@@ -14,3 +14,7 @@ env/
 
 # VS Code local settings
 .vscode/
+
+# Some Extra Python Files
+loop.py
+db_test.py
