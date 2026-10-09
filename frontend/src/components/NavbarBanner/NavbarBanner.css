@@ -1,0 +1,19 @@
+.nav_banner{
+    margin: 0;
+    padding: 0;
+    border: 1px;
+    border-style: dashed;
+    border: black;
+}
+
+.nav{
+    padding: 0;
+}
+
+#nav_banner{
+    margin: 0;
+    padding: 0;
+    border: 1px;
+    border-style: dashed;
+    border: rgb(29, 226, 22);
+}

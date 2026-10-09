@@ -3,7 +3,7 @@ import './NavbarBelt.css';
 
 const navbarbelt = () => {
   return (
-    <div>navbarbelt</div>
+    <div class= "nav_belt">navbarbelt</div>
   )
 }
 

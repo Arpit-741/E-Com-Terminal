@@ -4,8 +4,9 @@ import NavbarBanner from './NavbarBanner/NavbarBanner';
 const Navbar = () => {
   return (
     <div className='navbar'>
-        <NavbarBelt/>
-        <NavbarBanner/>
+      <NavbarBanner/>
+      <NavbarBelt/>
+        
     </div>
   )
 }
