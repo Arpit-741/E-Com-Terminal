@@ -1,1 +1,15 @@
-import Navbar from './Components/Navbar'
+import { useState } from 'react'
+import Navbar from './Components/Navbar.jsx'
+
+function App() {
+  const [count, setCount] = useState(0)
+
+  return (
+    <>
+      <Section class ="Navbar">
+        <Navbar></Navbar>
+      </Section>
+      
+    </>
+    )
+}
